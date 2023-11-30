@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on developing my portfolio 
 
-🌱 I’m currently learning python, sql
+🌱 I’m currently learning python, sql, power bi
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mariana-dementeva-4012a0108/)
 
